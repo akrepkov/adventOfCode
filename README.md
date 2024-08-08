@@ -1,7 +1,6 @@
 # Advent of Code 2023
 
 Advent of Code is an annual event that provides a series of daily programming puzzles during the month of December.
-Day 1: Calibration Values
 
 ## [Day 1](https://adventofcode.com/2023/day/1)
 
